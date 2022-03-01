@@ -1,0 +1,83 @@
+id: PA9AEEEEE
+initial_creation_type: input
+source_metadata:
+  title: Tengyur
+  language: zh
+  description: 'Texts from the Tengyur (bstan ''gyur), the canonical collection of
+    translated treatises:'
+  volume:
+    f486bdc044c547a2ae2bb4f63bb9b39d:
+      title: In Praise of the Three Jewels
+      parent: Praise
+    588f1ea59158461e8b90284d9ebcf3a4:
+      title: In Praise of the Twelve Deeds of the Buddha
+      parent: Praise
+    252db2b740b6497ab74284f1624c4cfa:
+      title: Ultimate Praise of the Noble and Venerable Mañjuśrī
+      parent: Praise
+    34e9bfa1191f47d1829f2291b4aa8f7c:
+      title: Summary of the Root Downfalls of the Vajra Vehicle
+      parent: Tantra
+    05e01150046e40318b6b149298301f3f:
+      title: 'The Fulfilment of All Aspirations: In Praise of Noble Tārā'
+      parent: Tantra
+    becb958f3c174cb3a5d7a425158fa2c8:
+      title: Praise of Noble Avalokiteśvara (Tengyur version)
+      parent: Tantra
+    2fa2220443664ec6806a3df8c7f790c1:
+      title: An Instruction on Pure View and Conduct
+      parent: Tantra
+    7c334a2b074043c6b30f7fb0af18eb1c:
+      title: Taking the Vows of Sojong
+      parent: Tantra
+    ec463373a1ee440ab9937935fee25f15:
+      title: The Ganges Mahāmudrā Instructions
+      parent: Tantra
+    e48ae9a196224ddf92c0ebfb6e4267ed:
+      title: The Praise to Mañjuśrī—Glorious Wisdom's Excellent Qualities
+      parent: Tantra
+    208c3d37d0f5456b902b67af785a4682:
+      title: The Bodhisattva’s Garland of Jewels
+      parent: Middle Way
+    28642d35ad1f46d2afcca3d54f2ecda9:
+      title: The Lamp for the Path to Enlightenment
+      parent: Middle Way
+    d79b9bf45c214492b2cdcf8432b5a521:
+      title: An Extensive Commentary on the Four Immeasurables
+      parent: Middle Way
+    7ac5b3949cc5474fa73b2f5c8e8c964f:
+      title: Verses on the Heart of Dependent Origination
+      parent: Middle Way
+    99211426bd17425b9dd3d767dba30547:
+      title: The Seven Branches for Practising the Sacred Dharma
+      parent: Middle Way
+    4c3ec238f5cb469e97551bdaa2d665cb:
+      title: 'Bodhicaryāvatāra—Chapter 1: The Benefits of Bodhicitta'
+      parent: Middle Way
+    1ba08261f20649fc90c303d7fb6ad847:
+      title: 'Bodhicaryāvatāra—Chapter 2: Confession of Negativity'
+      parent: Middle Way
+    12d8ac0f9b244f34a4e4683aab404402:
+      title: 'Bodhicaryāvatāra—Chapter 3: Fully Adopting Bodhicitta'
+      parent: Middle Way
+    188c4e501a924063aa8445f3d7554e15:
+      title: Unravelling Mantra’s Meaning in The Heart of Wisdom Sūtra
+      parent: Sūtra Commentaries
+    f58c31d85b66452da643ea069e179326:
+      title: Commentary on the Noble Essence of the Dharmadhātu
+      parent: Abhidharma
+    4cb49b2d2c1f46a0a87fa744b56273b2:
+      title: Extremely Concise Dedication
+      parent: Miscellaneous
+    d44cb361b6374ffe98d968bca0a6c5fe:
+      title: Maitreya's Aspiration
+      parent: Miscellaneous
+    5ba66cce5ace44d2a86cb18903052214:
+      title: The Auspicious Verses of the Seven Successive Buddhas
+      parent: Miscellaneous
+    7da115ddb1104b87b7f03c8f213db5cd:
+      title: 'The King of Aspiration Prayers: Samantabhadra''s “Aspiration to Good
+        Actions” (Zangchö Mönlam)'
+      parent: Miscellaneous
+created_at: '2022-03-01T06:09:24.516035'
+last_modified_at: '2022-03-01T06:09:24.516037'
